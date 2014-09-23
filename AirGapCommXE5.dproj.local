@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014-09-22 19:50:25.000.340,=rtl.dcp</Transaction>
+    <Transaction>2014-09-22 19:54:16.000.093,=rtl.dcp</Transaction>
+    <Transaction>2014-09-22 19:55:02.000.284,C:\Users\AirGap\Documents\RAD Studio\Projects\Package1.dproj=D:\DelphiVcl\MyVCL\AirGap_Com\AirGapCommXE5.dproj</Transaction>
+    <Transaction>2014-09-22 19:55:08.000.900,=D:\DelphiVcl\MyVCL\AirGap_Com\AirGapComm.pas</Transaction>
+    <Transaction>2014-09-22 21:55:44.000.423,=vcl.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
